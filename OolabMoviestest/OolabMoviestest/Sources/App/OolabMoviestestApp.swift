@@ -11,7 +11,7 @@ import SwiftUI
 struct OolabMoviestestApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MovieListView()
         }
     }
 }
